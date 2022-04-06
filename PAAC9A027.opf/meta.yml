@@ -1,0 +1,35 @@
+id: PAAC9A027
+initial_creation_type: input
+source_metadata:
+  work_id: http://purl.bdrc.io/resource/WA3JT13373
+  instance_id: http://purl.bdrc.io/resource/IE3JT13373
+  collection_id: http://purl.bdrc.io/resource/PR0ET010
+  language_id: None
+  title:
+    bo:
+    - ཀཾ་ཚང་བཀའ་བརྒྱུད་གསེར་ཕྲེང་།
+  alt_title:
+    bo:
+    - ཀརྨ་བཀའ་བརྒྱུད་གསེར་ཕྲེང་།
+  author: None
+  publisher: Various
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: false
+  volumes:
+    2c782346e2724593aa3443daccff18dd:
+      title: ཞ་ལུ་ལོ་ཆེན་ཆོས་སྐྱོང་བཟང་པོའི་ལོ་རྒྱུས།
+      volume_number: 2
+      base_file: UT3JT13373_002_0009.txt
+      reference: http://purl.bdrc.io/resource/VLE62DDF642C59A1BB
+      image_group: null
+      quality: null
+    90a057b01abe45cfb751705151c3b124:
+      title: ཀརྨ་པ་སྐུ་ཕྲེང་དང་པོ་
+      volume_number: 1
+      base_file: UT3JT13373_001_0009.txt
+      reference: http://purl.bdrc.io/resource/VL5682B09A6C40AC81
+      image_group: null
+      quality: null
+  reproductionOf: []
+created_at: '2021-12-31T08:20:40.481388'
+last_modified_at: '2021-12-31T08:20:40.481395'
